@@ -1,3 +1,3 @@
 # algorithmswithgo.com
 
-Problems and solutions for the Algorithms with Go course.
+This is my solutions for the Algorithms with Go course.
